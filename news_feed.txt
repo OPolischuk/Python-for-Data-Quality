@@ -1,2 +1,3 @@
 NEWS|2025-04-04|2|Hi! Team!
 NEWS|2025-04-25|Kyiv|Hi, Python!
+PRIVATE_AD|Hello, Python!|2025-04-04|-22 days left
