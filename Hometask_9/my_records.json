@@ -1,0 +1,17 @@
+[
+    {
+        "type": "news",
+        "city": "Lviv",
+        "text": "Jazz festival is coming this weekend!"
+    },
+    {
+        "type": "private ad",
+        "text": "Looking for a roommate in downtown area.",
+        "expiration_date": "2025-07-01"
+    },
+    {
+        "type": "custom",
+        "title": "Reminder",
+        "description": "Don't forget to take a break."
+    }
+]
