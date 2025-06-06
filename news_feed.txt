@@ -2,3 +2,7 @@ NEWS|2025-04-04|2|Hi! Team!
 NEWS|2025-04-25|Kyiv|Hi, Python!
 PRIVATE_AD|Hello, Python!|2025-04-04|-22 days left
 NEWS|2025-06-06|Kyiv|Hello, world!
+NEWS|2025-06-06|Kyiv|New metro line opened.
+PRIVATE_AD|Sell iPhone 14 in good condition|2025-06-30|23 days left
+CUSTOM|2025-06-06|Motivation|Push yourself, because no one else is going to do it for you.
+NEWS|2025-06-06|Kyiv|EPAM - the best!
